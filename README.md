@@ -4,13 +4,9 @@ The objective of this competition is to accurately predict demand for bikes in a
 
 ## Detailed Walkthroughs (Jupyter Notebooks)
 [Detailed Walkthrough 1: Exploratory Data Analysis](DetailedWalkthrough.ipynb)
-
 [Detailed Walkthrough 2: Model Exploration](DetailedWalkthrough2.ipynb)
-
 [Detailed Walkthrough 3: Hyperparameter Optimization](DetailedWalkthrough3.ipynb)
-
 [Detailed Walkthrough 4: Autocorrelative Models](DetailedWalkthrough4.ipynb)
-
 [Detailed Walkthrough 5: Ensemble Models](DetailedWalkthrough5.ipynb)
 
 ## Road to Top 20
@@ -43,4 +39,4 @@ The dataset consisted of the following variable:
 
 ## Metric
 The metric is root mean square logarithmic error. I've reproduced the metric from the competition for reference.
-![alt text](https://github.com/ganesh-krishnan/kaggleBikeShare/blob/master/images/rmsle.png)
+![alt text](./images/rmsle.png)
